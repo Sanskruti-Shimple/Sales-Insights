@@ -1,2 +1,4 @@
 # Sales-Insights
-Data Analysis Project
+
+<h2>Data Analysis Project</h2>
+Embarking on this project offers an immersive experience into the execution of data analysis projects within prominent enterprises, specifically employing Power BI. Ideal for those aspiring towards a career in data analysis, the case study revolves around a computer hardware business grappling with the complexities of a dynamically shifting market. Recognizing the need for strategic insights, the Sales Director decides to invest in a data analysis initiative. The primary objective is to construct a robust Power BI dashboard capable of providing real-time sales insights. This practical undertaking serves as a valuable resource for individuals keen on understanding the intricacies of data analysis within large corporations, showcasing the application of Power BI in addressing real-world challenges faced by businesses in today's dynamic markets.
